@@ -1476,7 +1476,7 @@ cc_prebuilt_library_shared {
                 "libmpbase",
                 "libcdsprpc",
                 "liblog",
-                "libstdc++",
+                "libstdc++_vendor",
                 "libm",
                 "libc",
                 "libdl",
@@ -1502,7 +1502,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libmpbase",
                 "liblog",
-                "libstdc++",
+                "libstdc++_vendor",
                 "libm",
                 "libc",
                 "libdl",
