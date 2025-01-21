@@ -188,7 +188,6 @@ PRODUCT_PACKAGES += \
     libkeymasterdeviceutils \
     libkeymasterprovision \
     libkeymasterutils \
-    libqcbor \
     libsensorcal \
     libsns_device_mode_stub \
     libsns_fastRPC_util \
