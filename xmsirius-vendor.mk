@@ -194,7 +194,6 @@ PRODUCT_PACKAGES += \
     libsns_low_lat_stream_stub \
     libsnsdiaglog \
     libssc_default_listener \
-    libssccalapi \
     sensors.ssc \
     vendor.goodix.hardware.fingerprintextension@1.0 \
     vendor.qti.hardware.sensorscalibrate@1.0 \
